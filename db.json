@@ -1,0 +1,12 @@
+{
+  "features": [
+    {
+      "name": "google-login",
+      "value": false
+    },
+    {
+      "name": "apple-pay",
+      "value": true
+    }
+  ]
+}
